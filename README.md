@@ -1,7 +1,12 @@
 <h1>Hey! I'm Jayden</h1>
 
 <p>Welcome to my page! 
-<br><br>I'm a student at the Nelson Marlborough Institute of Technology, learning web, software and database development.
+<br>
+<br>
+I'm a student at the Nelson Marlborough Institute of Technology, learning web, software and database development.
+<br>
+<br>
+This is my school account. You can find my personal account here -> <a href="https://github.com/Jayify">Personal GitHub</a>
 
 <h3>I code mostly with:</h3>
 <ul>
@@ -9,6 +14,7 @@
   <li>CSS</li>
   <li>JavaScript</li>
   <li>Python</li>
+  <li>SQL</li>
 </ul>
 
 <h3>Check out more here -> <a href="https://jayden-htn.github.io/WEB503-A2-22/src/home/home.html">My Website</a><h3>
