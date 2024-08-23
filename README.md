@@ -19,14 +19,10 @@ This is my school account. You can find my personal account here -> <a href="htt
 </ul>
 <br>
 
-
-<h3>Check out more here -> <a href="https://jayify.github.io/Portfolio-Website/src/home/home.html">My Website</a><h3>
-<br>
   
  <h3>Get in Touch</h3>
 <ul>
   <li>LinkedIn - www.linkedin.com/in/jayden-houghton</li>
-  <li>Email - jayden.hou12@gmail.com</li>
 </ul>
 <br>
 
