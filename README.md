@@ -1,26 +1,29 @@
 <h1>Hey! I'm Jayden</h1>
 
-<p>Welcome to my page! 
+I'm a now-graduated student with a Bachelor of Information Technology majoring in Systems Development. I studied at the Nelson Marlborough Institute of Technology.
 <br>
 <br>
-I'm a student at the Nelson Marlborough Institute of Technology, learning web, software and database development.
-<br>
-<br>
-This is my school account. You can find my personal account here -> <a href="https://github.com/Jayify">Personal GitHub</a>
+This is my school account and stands to demonstrate some of the work completed throughout my degree.
+
+You can find my personal account here -> <a href="https://github.com/Jayify">Personal GitHub</a>
 <br><br>
-  
-<h3>I code mostly with:</h3>
+
+
+I focus primarily on software and web development:
 <ul>
+  <li>C#</li>
+  <li>Entity Frameworm Core</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>TypeScript</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JavaScript</li>
   <li>Python</li>
   <li>SQL</li>
 </ul>
 <br>
-
   
- <h3>Get in Touch</h3>
+<h3>Get in Touch</h3>
 <ul>
   <li>LinkedIn - www.linkedin.com/in/jayden-houghton</li>
 </ul>
